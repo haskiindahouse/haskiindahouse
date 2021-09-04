@@ -75,7 +75,7 @@
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk just ping me 😉.
 
-![haskiindahouse@gmail.com](https://img.shields.io/badge/<haskiindahouse@gmail.com>-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![@haskiindahouse](https://img.shields.io/badge/<@haskiindahouse>-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+[![](https://img.shields.io/badge/send%20message-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/haskiindahouse)
+[![](https://img.shields.io/badge/write%20e--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haskiindahouse@gmail.com)
 
 *************
