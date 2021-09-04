@@ -1,10 +1,5 @@
 # Hi, I'm Mikhail Murunov 👋
 
-</br>
-</br>
-</br>
-
-
 # About ME 💬 :
 
 ### - I'm 20 years old Student from Dubna, Russia.
@@ -38,7 +33,6 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
-![Boost](https://www.boost.org)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
@@ -47,7 +41,6 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -99,8 +92,8 @@
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk just ping me 😉.
 
-![haskiindahouse@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![@haskiindahouse](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![haskiindahouse@gmail.com](https://img.shields.io/badge/<handle>-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![@haskiindahouse](https://img.shields.io/badge/<handle>-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
  
 
