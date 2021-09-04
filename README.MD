@@ -95,14 +95,4 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 ![haskiindahouse@gmail.com](https://img.shields.io/badge/<haskiindahouse@gmail.com>-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![@haskiindahouse](https://img.shields.io/badge/<@haskiindahouse>-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
- 
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
 *************
