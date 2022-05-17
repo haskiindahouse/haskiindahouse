@@ -2,7 +2,7 @@
 
 # About ME 💬 :
 
-### - I'm 20 years old Student from Dubna, Russia.
+### - I'm 21 years old Student from Dubna, Russia.
 
 ### - Learning :
 - ✨ Art of programming
