@@ -10,7 +10,7 @@
     <br><br>
     <a href="https://github.com/haskiindahouse/qa-tools-oss-bug-hunt">79 verified bugs</a> in 15 tools that test your code
     <br>
-    <a href="https://github.com/genproof/liblzma-verification">liblzma, machine-checked</a> · <a href="https://github.com/buzden/deptycheck">dependently-typed fuzzing</a>
+    <a href="https://github.com/buzden/deptycheck">dependently-typed fuzzing</a>
     <br>
     <a href="https://github.com/haskiindahouse/svoi-lyudi">svoi-lyudi</a> · scala digest
     <br><br>
