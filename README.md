@@ -14,6 +14,8 @@
     <br>
     <a href="https://github.com/haskiindahouse/svoi-lyudi">svoi-lyudi</a> · scala digest
     <br><br>
+    <sub><!--stats-->3603 contributions in the last year · 9-day streak<!--/stats--></sub>
+    <br><br>
     <a href="https://t.me/haskiindahouse">telegram</a>
     <br><br>
     <sub>sorry — just close it; i read every issue.</sub>
