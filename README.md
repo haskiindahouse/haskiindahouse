@@ -6,7 +6,7 @@
   <samp>
     <b>mike murunov</b>
     <br><br>
-    25 y.o. · the biggest llm hallucination
+    verification is all you need
     <br><br>
     <a href="https://github.com/haskiindahouse/qa-tools-oss-bug-hunt">79 verified bugs</a> in 15 tools that test your code
     <br>
