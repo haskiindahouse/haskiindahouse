@@ -1,6 +1,6 @@
-<!-- ▼ your gif goes right below this line ▼ -->
-
-<!-- ▲ that's it. nothing else above the fold ▲ -->
+<p align="center">
+  <img src="./assets/mk-it-through.jpg" alt="fckng mk it through" width="460">
+</p>
 
 <p align="center">
   <samp>
