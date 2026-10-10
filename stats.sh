@@ -4,9 +4,11 @@ set -euo pipefail
 
 # the wall: one badge per PUBLIC project i filed issues in (own/work repos excluded).
 # is:public is load-bearing: a user-token run must never leak private repo names.
+# projects left off the wall.
+SKIP='^(http4s/http4s|AugustNagro/magnum|zio/zio-schema)$'
 ITEMS=$(gh api "search/issues?q=author:haskiindahouse+is:issue+is:public&per_page=100" --paginate \
   --jq '.items[].repository_url' | sed 's|.*/repos/||' \
-  | grep -v -E '^(haskiindahouse|genproof|FitChoice)/' | sort | uniq -c | sort -rn)
+  | grep -v -E '^(haskiindahouse|genproof|FitChoice)/' | grep -v -E "$SKIP" | sort | uniq -c | sort -rn)
 
 TOTAL_BUGS=0
 NPROJ=0
